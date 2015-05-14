@@ -1,0 +1,50 @@
+html, body {
+    background: rgb(255,255,255);
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#icingas {
+    display: inline-block;
+    height: 500px;
+    width: 100%;
+}
+
+#icingaintra {
+    display: inline-block;
+    float: right;
+    height: 100%;
+    position: relative;
+    width: 50%;
+}
+
+#icingapublic {
+    display: inline-block;
+    float: right;
+    height: 100%;
+    position: relative;
+    width: 50%;
+}
+
+#metros {
+    display: inline-block;
+    height: 50%;
+    width: 100%;
+}
+
+#wmap {
+    display: inline-block;
+    float: right;
+    height: 100%;
+    position: relative;
+    width: 45%;
+}
+
+#smokeping {
+    display: inline-block;
+    float: right;
+    height: 100%;
+    position: relative;
+    width: 55%;
+}
