@@ -10,3 +10,5 @@ over our private and public Icinga servers. While on the bottom half, on the
 left of our page we display Smokeping graphs watching over self-hosted services.
 The center loads our PHP-Weathermap. The right third loads an other bunch of
 Smokeping graphs, watching over public services availability
+
+![AllSeeingEye UneTresGrosseBite](sample.png)
